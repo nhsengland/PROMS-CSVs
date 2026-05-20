@@ -1,0 +1,4 @@
+__pycache__
+utils.__pycache__
+/Final-CSV-Files/*
+!/Final-CSV-Files/info.txt
